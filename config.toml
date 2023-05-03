@@ -1,5 +1,5 @@
-baseURL = "https://peterampazzo.github.io/project-website-template/"
-title = "Project Title"
+baseURL = "https://natasha0301.github.io/Project-website/"
+title = "Animal Wikipages"
 description = "This is a project description"
 relativeURLs = true
 theme = "theme" 
