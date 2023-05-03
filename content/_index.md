@@ -1,5 +1,5 @@
 ---
-title: Project Assignment: Wikipedia Animals
+title: Home Page
 layout: single
 next: data-description
 ---
