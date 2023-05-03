@@ -4,7 +4,7 @@ layout: single
 next: data-description
 ---
 
-The central idea of the project is to use Wikipedia API to create an animal dataset. 
+The central idea of the project is to use Wikipedia API to create an animal dataset. Work
 
 
 ## Math formula
