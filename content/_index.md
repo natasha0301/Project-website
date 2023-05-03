@@ -3,7 +3,7 @@ title: Home Page
 layout: single
 next: data-description
 ---
-Hej Hej Hej Fungere lortet? Hvad med nu?...
+Hej Hej Hej Fungere lortet? Hvad med nu?......
 The central idea of the project is to use Wikipedia API to create an animal dataset. Work work work
 
 
