@@ -3,37 +3,8 @@ title: Home Page
 layout: single
 next: data-description
 ---
-Hej Hej Hej Fungere lortet? Hvad med nu?......
-The central idea of the project is to use Wikipedia API to create an animal dataset. Work work work
 
-
-## Math formula
-
-
-$$ x^n + y^n = z^n $$
-
-## Code chunk
-
-```
-import pandas as pd
-
-df = pd.DataFrame()
-```
-
-Sed id orci ullamcorper, commodo sapien in, scelerisque nunc. Duis posuere sed nisl in gravida. Pellentesque rutrum justo ut mi tempus dignissim. Ut pulvinar quis urna ut molestie. Pellentesque nec arcu metus. Vivamus non rutrum magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-![](https://source.unsplash.com/random/?Copenhagen)
-
-Phasellus viverra tellus viverra purus placerat, et lacinia mauris tristique. Nam semper venenatis lorem, nec ullamcorper tortor dignissim eget. Etiam non ipsum sed neque pharetra ullamcorper. Praesent ultrices ipsum varius dictum lacinia. Nulla placerat magna augue, volutpat rutrum nulla finibus sed. Phasellus maximus mi sit amet risus mattis, porta rhoncus elit dictum. Donec vel viverra lectus, vitae elementum arcu. Quisque quis molestie elit. Cras eget tellus vitae risus fermentum bibendum vitae ac turpis. Praesent mi eros, scelerisque sit amet sem at, hendrerit accumsan ligula.
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec mauris aliquet, convallis ligula vel, mollis est. Fusce accumsan massa vel lectus dapibus, at vehicula elit auctor.
-
-| Column 1  | Column 2  |  Column 3 |
-|---|---|---|
-| 1 | 4 | 7 |
-| 2 | 5 | 8 |
-| 3 | 6 | 9 |
+The central idea of the project is to use Wikipedia API to create an animal dataset. What we want to do then is to see how many links there are to other related animal species and how many times the other species is mentioned will add to the weight. So we would use these links to create edges between nodes (animals). So an example is an article about an elephant on Wikipedia, a rhino is mentioned, which will create an edge to a rhino node and a link to a rhino is mentioned twice it will give the edge weight. This will be repeated for multiple animals pages on Wikipedia to investigate how they are linked.
 
 ## [Explainer Notebook](explainer-notebook.html)
 
-Aenean non augue vulputate, bibendum ligula ac, euismod arcu. Proin consequat, urna at lobortis sodales, ligula nulla molestie dolor, et interdum nulla arcu eu lacus. Aenean maximus mi vel augue blandit, quis vehicula libero egestas. In mollis nibh in turpis sodales, eget luctus sem pretium. Integer lobortis diam vel nisi laoreet, ut condimentum risus ultrices. Praesent diam risus, imperdiet at lorem in, hendrerit auctor ex.
