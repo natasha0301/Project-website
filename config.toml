@@ -6,8 +6,8 @@ theme = "theme"
 [params]
     authors = ["Otto Schmidt", "Cornelius Erichs", "Natasha Hougaard"]
     notebook = "/explainer-notebook.html"
-    data = "https://drive.google.com"
-    github = "https://github.com/peterampazzo/project-website-template"
+    data = "https://github.com/cerichs/CSS_Project_A_and_B/tree/main/data"
+    github = "https://github.com/natasha0301/Project-website"
     [[params.nav]]
         label = "Data"
         link = "/data-description"
