@@ -22,4 +22,4 @@ For this the following points were chosen:
 <img src="/images/geophis_fulvoguttatus_wordcloud.png" width="400" />
 </p>
 
-<img src="/images/figuresnorthern_yellow-faced_turtle_wordcloud.png" width="400"/>
+<img src="/images/northern_yellow-faced_turtle_wordcloud.png" width="400"/>
