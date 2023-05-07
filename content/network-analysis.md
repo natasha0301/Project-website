@@ -35,4 +35,4 @@ The network with Louvain communities can be seen below:
 
 To see how good Louvain performs, we compute the accuracy. Louvain has predicted 30 unique labels, whereas there are 106 ground truth labels. The accuracy is calculated by taking the amount of correct class assignment and devide it by total assignments. This gives an accuracy of 64.7%. The confusion matrix is too big to show it here in any meaningful way as there are 106 ground truth labels. To see the full confusion matrix refer to the [source code](https://github.com/cerichs/CSS_Project_A_and_B/blob/main/analysis.py#L247) (as the explainer notebook also is unable to output its full size).
 
-However as can be seen in the plots, it is able to correctly identify the larger cluster, as it assumes these clusters are all the same Class.
+However as can be seen in the plots, it is able to correctly identify the larger cluster, however it has problems with the smaller clusters, as indicated by it only detectings 30 commonuties compared to 106 true communities. However it is difficult to find 106 communities visually, and looking at the result from Louvain, the communities it has found seem good.
