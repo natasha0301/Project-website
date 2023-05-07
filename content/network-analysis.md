@@ -23,7 +23,7 @@ If we look at the modularity, ie. the degree of clustering and how well the node
 However, there is a problem with the dataset, which is that there are nodes for "Animal", "Reptilia", etc. A "cleaned" network where the nodes for the different classes, orders, superfamily and families are removed, aswell as the following nodes "Animal","Reptile","Arthropod","Chordate","Bird","Rodent" & "Insect" can be seen below:
 <img src="/images/network_cleaned.png" width="800" />
 
-However this "cleaned" network will not be used for the analysis, since there is no clear line to draw in regards to what should be removed and what shouldn't. As there is a good argument for also removing "Spider" and "Frog" if we have removed "Bird". For curiosity sake, with a Class split it gets a assortativity coefficient of 0.912 and modularity of 0.673.
+However this "cleaned" network will not be used for the analysis, since there is no clear line to draw in regards to what should be removed and what shouldn't. As there is a good argument for also removing "Spider" and "Frog" if we have removed "Bird". For curiosity sake, with a Class split it gets a assortativity coefficient of 0.912 and modularity of 0.215.
 
 Moving away from the "cleaned" network and back to the original network, if we try to apply community detection on the network using the Louvain algorithm, we get the following statistics about the network:
 1. Number of communities: 30
