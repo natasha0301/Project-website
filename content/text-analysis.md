@@ -18,7 +18,7 @@ For this the following points were chosen:
 
 <p align="center">
 <img src="/images/laudakia_dayana_wordcloud.png" width="45%" />
-
+&nbsp; &nbsp; &nbsp; &nbsp;
 <img src="/images/geophis_fulvoguttatus_wordcloud.png" width="45%" />
 </p>
 
