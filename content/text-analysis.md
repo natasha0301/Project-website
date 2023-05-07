@@ -17,7 +17,7 @@ For this the following points were chosen:
 3. northern_yellow-faced_turtle (Turtle cluster)
 
 
-<div style="display:flex">
+<div style="display:flex;margin-bottom:5px;">
      <div style="flex:1;padding-right:10px;">
           <img src="/images/laudakia_dayana_wordcloud.png" width="400"/>
      </div>
