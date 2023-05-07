@@ -30,6 +30,3 @@ The data can be accesed either at the bottom of the webpage, by using the direct
 1. [all_animal_to_all_animal.pickle](https://github.com/cerichs/CSS_Project_A_and_B/blob/main/data/all_animal_to_all_animal.pickle) Edgeweights and nodes for the large network.
 2. [data_plain_long_reptile.pickle](https://github.com/cerichs/CSS_Project_A_and_B/blob/main/data/data_plain_long_reptile.pickle) Edgeweights and nodes for the smaller reptile network.
 
-
-<img src="/images/dtu-logo.png" width="100" />
-
