@@ -16,9 +16,10 @@ For this the following points were chosen:
 2. geophis_fulvoguttatus (Snake cluster)
 3. northern_yellow-faced_turtle (Turtle cluster)
 
-
+<p float="left">
 <img src="/images/laudakia_dayana_wordcloud.png" width="400" />
 
 <img src="/images/geophis_fulvoguttatus_wordcloud.png" width="400" />
+</p>
 
-<img src="/images/figuresnorthern_yellow-faced_turtle_wordcloud.png" width="400" />
+<img src="/images/figuresnorthern_yellow-faced_turtle_wordcloud.png" width="400"/>
