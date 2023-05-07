@@ -19,14 +19,19 @@ For this the following points were chosen:
 
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
-          <img src="/images/laudakia_dayana_wordcloud.png" width="200"/>
+          <img src="/images/laudakia_dayana_wordcloud.png" width="400"/>
      </div>
      <div style="flex:1;padding-left:10px;">
-          <img src="/images/geophis_fulvoguttatus_wordcloud.png" width="300"/>
+          <img src="/images/geophis_fulvoguttatus_wordcloud.png" width="400"/>
      </div>
+</div>
+<div style="display:flex">
      <div style="flex:1;padding-left:10px;">
           <img src="/images/northern_yellow-faced_turtle_wordcloud.png" width="400"/>
      </div>
+     <!-- <div style="flex:1;padding-left:10px;">
+          <img src="/images/geophis_fulvoguttatus_wordcloud.png" width="300"/>
+     </div> -->
 </div>
 
 <!-- <p align="center">
