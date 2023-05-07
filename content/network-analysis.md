@@ -7,7 +7,7 @@ next: text-analysis
 For the network analysis we will begin by looking at the large network, as previously shown in [Data](../data-description.md), the network seems to have some clustering that is seperated by the different animal classes. 
 <img src="/images/network_all.png" width="800" />
 
-As also seen, some animal classes have more subclusters, the primary two being <font color=#a328cc>Reptilia</font> (Purple),  <font color=#cc7228>Arachnida</font>, <font color=#cc4428>Amphibia</font> and <font color=#2882cc>Mammalia</font>.
+As also seen, some animal classes have more subclusters, the primary 4 and their location in respect to the center <font color=#a328cc>Reptilia</font> (South-east),  <font color=#cc7228>Arachnida</font> (East), <font color=#cc4428>Amphibia</font> (North) and <font color=#2882cc>Mammalia</font> (South-west). And we see other classes such as <font color=#cc9728>Aves</font> (South), <font color=#cc3228>Actinopterygii</font> (West) and <font color=#289dcc>Insecta</font> (North-East), where its nodes are still in one big clusters and that are no or minor subclusters.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nulla tellus, tempus sed lobortis quis, venenatis ac ante. Maecenas accumsan augue ultricies metus hendrerit, in ultrices urna fringilla. Suspendisse lobortis egestas magna, sit amet fermentum ligula tincidunt vitae. Suspendisse cursus non dui a vulputate. Cras vestibulum vulputate enim eu placerat. Ut scelerisque semper justo sit amet auctor. Aliquam sit amet iaculis tortor.
 
